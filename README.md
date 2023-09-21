@@ -42,7 +42,7 @@
  
 <p>
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Learning every day <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: contato.basy@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/matheus-basy/)
