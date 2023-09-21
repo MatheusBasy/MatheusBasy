@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**MatheusBasy/MatheusBasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const username = 'MatheusBasy';
+const name = 'Matheus Basy';
+const social = { 
+    linkedin: 'https://www.linkedin.com/in/matheus-basy/',
+    instagram: 'https://www.instagram.com/matheusbasy/'
+}
+const code = {
+    backend: ['JavaScript', 'NodeJS', 'Express'],
+    database: ['SQL']
+}
